@@ -1,2 +1,1 @@
-# keras-self-attention
-Keras Self Attention answer to stackoverflow
+Keras Self Attention answer to stackoverflow question.
